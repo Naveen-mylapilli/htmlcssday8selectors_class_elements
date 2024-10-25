@@ -1,0 +1,24 @@
+/* element selector */
+img{
+    background-color: aquamarine;
+    width: 400px;
+    border:3px solid green
+
+}
+/* id */
+#LarryEllison{
+    width: 375px;
+}
+/* class */
+.SergeyBrin{
+    width: 385px;
+}
+.topone{
+border-radius: 80px;
+}
+.topfifth{
+    border-radius: 80px;
+}
+#toptenth{
+    border-radius: 80px;
+}
